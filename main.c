@@ -5,5 +5,6 @@
 
 int main(int argc, char *argv[]) {
 	printf("Hello,Sookmyung IT\n");
+	printf("3+4=7");
 	return 0;
 }
